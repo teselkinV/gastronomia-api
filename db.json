@@ -11,9 +11,10 @@
             "price": "cheap",
             "difficult": "easy",
             "products": "store",
-            "ingridients": ["2 slices hokkaido bread", "2 eggs", "20g cream", "1tsp sugar", "pinch of salt", "0.5tsp ground cinnamon", "0.5tsp butter", "2tsp orange jam"],
             "methods": [
                 {
+                    "title": "Make toasts",
+                    "ingridients": ["2 slices hokkaido bread", "2 eggs", "20g cream", "1tsp sugar", "pinch of salt", "0.5tsp ground cinnamon", "0.5tsp butter", "2tsp orange jam"],
                     "steps": [
                             {
                             "1": "Сut two slices of bread.",

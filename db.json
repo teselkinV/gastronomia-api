@@ -1,0 +1,78 @@
+{
+    "recipes": [
+        {
+            "id": 0,
+            "title": "French toast",
+            "description": "Very delicious and easy to make french toast with cinnamon and orange jam",
+            "category": "baking",
+            "banner": "",
+            "time": "10 mins",
+            "amount": "250g",
+            "price": "cheap",
+            "difficult": "easy",
+            "products": "store",
+            "ingridients": ["2 slices hokkaido bread", "2 eggs", "20g cream", "1tsp sugar", "pinch of salt", "0.5tsp ground cinnamon", "0.5tsp butter", "2tsp orange jam"],
+            "methods": [
+                {
+                    "steps": [
+                            {
+                            "1": "Сut two slices of bread.",
+                            "2": "Place in a bowl eggs, cream, salt, sugar and ground cinnamon and mix well.",
+                            "3": "Heat pan with butter on medium heat.",
+                            "4": "Dip bread in egg mixture, turning to coat both sides evenly. ",
+                            "5": "Cook bread slices until browned on both sides.",
+                            "6": "Spread one side of bread orange jam and sprinkle with icing sugar."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Bread",
+            "description": "Very delicious and easy to make sourdough bread with olives and rosemary",
+            "category": "baking",
+            "banner": "",
+            "time": "1.5 hrs",
+            "amount": "2000g",
+            "price": "cheap",
+            "difficult": "easy",
+            "products": "store",
+            "methods":[
+                {
+                    "title": "Make levian",
+                    "time": "6 hrs",
+                    "category": "proofing",
+                    "ingridients":["50g sourdough starter", "100g water", "50g bread flour", "50g wheat flour"],
+                    "steps": [
+                        {
+                            "1": "Combine all ingridients",
+                            "2": "Place in glass jar",
+                            "3": "Leave for proof for 5-6 hours or until tripled"
+                        }
+                    ]
+                },
+                {
+                    "title": "Make bread",
+                    "time": "1 hrs",
+                    "category": "baking",
+                    "ingridients": ["1000g flour", "700g water", "24g salt", "240g levain", "200g black olives", "5g fresh rosamery", "30ml olive oil"],
+                    "steps": [
+                        {
+                            "1": "Mix 9/10 of water and flour for 3-4 mins and leave for 60 minutes",
+                            "2": "Add remaining water, salt and sourdough and knead the dough 5-6 mins, leave for 15 mins",
+                            "3": "Fold douh and leave for 30 mins chill. Repeat this step two times more.",
+                            "4": "Leave douh for fermentation for at least 3-3,5 hrs or doubled",
+                            "5": "Divide dough, preshape and leave for 20 mins",
+                            "6": "Shape dough, place on bowl and place in the fridge for 12-14 hrs.",
+                            "7": "Preheat oven for 30 minutes at 450 degrees Farenheit",
+                            "8": "Place baking sheet with water on the bottom in the oven",
+                            "9": "Bake bread first 15 minutes with steam, remove tray with water and bake additional 15-20 minutes",
+                            "10": "Cool completely at least 2 hours"
+                        }
+                    ] 
+                }
+            ]
+        }
+    ]
+}

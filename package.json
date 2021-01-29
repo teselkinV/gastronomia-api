@@ -1,0 +1,24 @@
+{
+  "name": "gastronomia-api",
+  "version": "1.0.0",
+  "description": "My data recipes api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teselkinV/gastronomia-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teselkinV/gastronomia-api/issues"
+  },
+  "homepage": "https://github.com/teselkinV/gastronomia-api#readme",
+  "dependencies": {
+    "json": "^10.0.0",
+    "json-server": "^0.16.3"
+  }
+}

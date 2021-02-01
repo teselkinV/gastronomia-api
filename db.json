@@ -14,7 +14,18 @@
             "methods": [
                 {
                     "title": "Make toasts",
-                    "ingridients": ["2 slices hokkaido bread", "2 eggs", "20g cream", "1tsp sugar", "pinch of salt", "0.5tsp ground cinnamon", "0.5tsp butter", "2tsp orange jam"],
+                    "ingridients": [
+                        {
+                        "1": "2 slices hokkaido bread", 
+                        "2":"2 eggs", 
+                        "3":"20g cream", 
+                        "4":"1tsp sugar", 
+                        "5":"pinch of salt", 
+                        "6":"0.5tsp ground cinnamon", 
+                        "7":"0.5tsp butter", 
+                        "8":"2tsp orange jam"
+                        }
+                    ],
                     "steps": [
                             {
                             "1": "Сut two slices of bread.",
@@ -44,7 +55,14 @@
                     "title": "Make levian",
                     "time": "6 hrs",
                     "category": "proofing",
-                    "ingridients":["50g sourdough starter", "100g water", "50g bread flour", "50g wheat flour"],
+                    "ingridients":[
+                        {
+                        "1":"50g sourdough starter", 
+                        "2":"100g water", 
+                        "3":"50g bread flour", 
+                        "4":"50g wheat flour"
+                        }
+                    ],
                     "steps": [
                         {
                             "1": "Combine all ingridients",
@@ -57,7 +75,17 @@
                     "title": "Make bread",
                     "time": "1 hrs",
                     "category": "baking",
-                    "ingridients": ["1000g flour", "700g water", "24g salt", "240g levain", "200g black olives", "5g fresh rosamery", "30ml olive oil"],
+                    "ingridients": [
+                        { 
+                        "1":"1000g flour", 
+                        "2":"700g water", 
+                        "3":"24g salt", 
+                        "4":"240g levain", 
+                        "5":"200g black olives", 
+                        "6":"5g fresh rosamery", 
+                        "7":"30ml olive oil"
+                        }
+                    ],
                     "steps": [
                         {
                             "1": "Mix 9/10 of water and flour for 3-4 mins and leave for 60 minutes",

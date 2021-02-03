@@ -11,7 +11,7 @@
             "price": "cheap",
             "difficult": "easy",
             "products": "store",
-            "methods": [
+            "methods": 
                 {
                     "title": "Make toasts",
                     "ingridients": [
@@ -37,7 +37,7 @@
                         }
                     ]
                 }
-            ]
+            
         },
         {
             "id": 1,

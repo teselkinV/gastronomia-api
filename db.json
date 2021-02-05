@@ -15,16 +15,15 @@
                 {
                     "title": "Make toasts",
                     "ingridients": [
-                        {
-                        "2 slices": " hokkaido bread", 
-                        "2":" eggs", 
-                        "20 g":" cream", 
-                        "1 tsp":" sugar", 
-                        "pinch":" of salt", 
-                        "0.5 tsp":" ground cinnamon", 
-                        "0.5 tsp":" butter", 
-                        "2 tsp":" orange jam"
-                        }
+                        
+                        { "2 slices": " hokkaido bread"}, 
+                        { "2":" eggs"}, 
+                        { "20 g":" cream"}, 
+                        { "1 tsp":" sugar"}, 
+                        { "pinch":" of salt"}, 
+                        { "0.5 tsp":" ground cinnamon"}, 
+                        { "0.5 tsp":" butter"}, 
+                        { "2 tsp":" orange jam"}
                     ],
                     "steps": [
                             {

@@ -90,6 +90,43 @@
                     ] 
                 }
             ]
+        },
+        {
+            "id": 2,
+            "title": "Chicken pate",
+            "description": "This silky smooth pate is super-satisfying to make.",
+            "category": "meat",
+            "banner": "",
+            "time": "4.5 hrs",
+            "amount": "1200g",
+            "price": "cheap",
+            "difficult": "easy",
+            "products": "store",
+            "methods":[
+                {
+                    "ingridients":[
+                        {"400g":" chicken livers"}, 
+                        {"100g":" mashrooms"}, 
+                        {"2":" medium onions"}, 
+                        {"120g":" salted butter"},
+                        {"80g":" unsalted butter"},
+                        {"50ml":" truffle oil"},
+                        {"50ml":" brandy"},
+                        {"3-4 springs of":" fresh thyme"},
+                        {"7-8 leaves":" fresh sage"},
+                        {"pinch of":" salt"},
+                        {"pinch of":" black pepper"},
+                        {"2 tbs":" olive oil"}
+                    ],
+                    "steps": [
+                            {"1": "To make clarified butter, place unsalted butter in a pan on a very low heat and let it slowly melt 10 minutes. Use table spoon for remove the whey from the top of oil."},
+                            {"2": "Pell and finely chop onions and place in the two pans on a medium heat with olive oil. Strip the thyme leaves and fry for 5 minutes, until soft. In one pan add the mushrooms, salt and pepper and fry 5-6 minutes. In the second pan add chicken livers and a pinch of salt and black pepper. Cook for 4 minutes on a big heat, add the brandy to the pan and cook for 2 minutes more."},
+                            {"3": "Tip everything straight into a food processor and blend until smooth. Dice salted butter and add to the processor, then add truffle oil and blend until silky smooth and the mixture start to shine. Taste and season to perfection. Serve the pate in a bowl."},
+                            {"4": "Put the pan with clarified butter on a medium heat and add sage leaves. When the leaves becomes crispy, pop the sage leaves on top of the pate, then pour over the clarified butter. Put into the fridge for a 4-5 hours until set."},
+                            {"5": "Serve this with toast, cornichons and a glass of wine."}
+                    ]
+                }
+            ]
         }
     ]
 }

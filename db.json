@@ -128,5 +128,31 @@
                 }
             ]
         }
+    ],
+    "category": [
+        {
+            "id": 1020,
+            "title": "Bakery",
+            "img": "",
+            "description": "The best bakary recipes"
+        },
+        {
+            "id": 1030,
+            "title": "Patisserie",
+            "img": "",
+            "description": "The best french patisserie recipes"
+        },
+        {
+            "id": 1040,
+            "title": "Meat",
+            "img": "",
+            "description": "The meat recipes"
+        },
+        {
+            "id": 1050,
+            "title": "Fish",
+            "img": "",
+            "description": "The fish recipes"
+        }
     ]
 }

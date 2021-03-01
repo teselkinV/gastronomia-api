@@ -96,7 +96,7 @@
             "title": "Chicken pate",
             "description": "This silky smooth pate is super-satisfying to make.",
             "category": "meat",
-            "banner": "",
+            "banner": "images/IMG_3185.jpg",
             "time": "4.5 hrs",
             "amount": "1200g",
             "price": "cheap",
@@ -156,3 +156,5 @@
         }
     ]
 }
+    
+

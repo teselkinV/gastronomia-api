@@ -5,6 +5,7 @@
             "title": "French toast",
             "description": "Very delicious and easy to make french toast with cinnamon and orange jam",
             "category": "baking",
+            "categoryId": 1020,
             "banner": "",
             "time": "10 mins",
             "amount": "250g",
@@ -40,6 +41,7 @@
             "title": "Bread",
             "description": "Very delicious and easy to make sourdough bread with olives and rosemary",
             "category": "baking",
+            "categoryId": 1020,
             "banner": "",
             "time": "1.5 hrs",
             "amount": "2000g",
@@ -96,6 +98,7 @@
             "title": "Chicken pate",
             "description": "This silky smooth pate is super-satisfying to make.",
             "category": "meat",
+            "categoryId": 1040,
             "banner": "images/IMG_3185.jpg",
             "time": "4.5 hrs",
             "amount": "1200g",
@@ -125,6 +128,61 @@
                             {"4": "Put the pan with clarified butter on a medium heat and add sage leaves. When the leaves becomes crispy, pop the sage leaves on top of the pate, then pour over the clarified butter. Put into the fridge for a 4-5 hours until set."},
                             {"5": "Serve this with toast, cornichons and a glass of wine."}
                     ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Strawberry rollcake",
+            "description": "Very delicious and easy to make strawberry rollcake with vanilla ganache",
+            "category": "patisserie",
+            "categoryId": 1030,
+            "banner": "",
+            "time": "1 hrs",
+            "amount": "2000g",
+            "price": "cheap",
+            "difficult": "easy",
+            "products": "store",
+            "methods":[
+                {
+                    "title": "Sponge cake",
+                    "time": "20 mins",
+                    "category": "baking",
+                    "ingridients":[
+                        {"54g":" milk"}, 
+                        {"27g":" butter"}, 
+                        {"50g":" flour"}, 
+                        {"50g":" egg yolks"},
+                        {"65g":" eggs"},
+                        {"95g":" egg whites"},
+                        {"45g":" sugar"}
+                    ],
+                    "steps": [
+                            {"1": "Milk and butter bring to a boil."},
+                            {"2": "Add flour and mix well."},
+                            {"3": "Egg whites beat to soft peaks."},
+                            {"4": "Flour mix transfer to mixer bowl with paddle attachment and beat for decrease temperature. Add mix eggs and yolks portioned. Mix to smooth texture."},
+                            {"5": "Combine together flour mix and beaten egg whites."},
+                            {"6": "Spread on baking mat and bake at 360F for 10-12 minutes."}
+                    ]
+                },
+                {
+                    "title": "Vanilla ganache",
+                    "time": "10 mins + 12 hrs",
+                    "category": "boil",
+                    "ingridients": [
+                        {"28g":" gelatine mass"}, 
+                        {"490g":" cream"}, 
+                        {"1 tsp":" vanilla pasta"}, 
+                        {"180g":" white chocolate"}, 
+                        {"100g":" mascarpone"},
+                    ],
+                    "steps": [
+                        { "1": "Add the cream and vanilla to a pan and bring it to a gentle simmer."},
+                        { "2": "Meanwhile add the white chocolate, mascarpone and melted gelatin to a jug."},
+                        {"3": "Pour over the hot cream and blend. Pour it into a bowl and cover and chill overnight. Do not skip this."},
+                        { "4": "Whisk to soft peaks and then pipe. Keep an eye on it so you don’t over whip it."}
+                    ] 
                 }
             ]
         }

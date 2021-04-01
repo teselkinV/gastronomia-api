@@ -212,6 +212,54 @@
             "img": "",
             "description": "The fish recipes"
         }
+    ],
+    "parts": [ 
+        {
+            "id": 20001,
+            "brand": "Akrapovic",
+            "title": "Akrapovic GP Slip-On Exhaust Yamaha R6 2017-2020",
+            "img": "image",
+            "description": "The Akrapovic GP-styled Slip-On is a high-performance exhaust that takes design cues from the exhaust found on the factory Yamaha M1 MotoGP bike. Made from titanium, a race-proven material, this exhaust system results in a boost in performance and noticeable weight reduction. Slip-Ons represent the first step in the exhaust system tuning process, and they offer a great balance between price and performance. Change the nature of your bike by adding more power, improved performance, and the unique Akrapovic sound. It’s not just about peak power, Akrapovic exhaust systems deliver increased performance throughout the entire rpm range. Increased power and torque result in a much smoother ride. All Akrapovič exhaust system measurements are made on Akrapovic's computer-controlled flowbenches",
+            "compatibility": "2017-2020 Yamaha R6"
+        },
+        {
+            "id": 20002,
+            "brand": "Silver’s",
+            "title": "Silver’s NEOMAX Coilover Kit - Toyota Supra A90 RWD 2019+",
+            "img": "image",
+            "description": "Standard Front Spring Rate: 8K Standard Rear Spring Rate: 9K-S",
+            "features": [
+                {
+                    "features-1": "Adjustable T6 6061 front camber plates on all McPherson style applications.",
+                    "features-2": "Koyo Japan Radial Bearing upper spring perch standard on all applicable McPherson applications. This eliminates spring bind, noise, and gives improved driver feedback.",
+                    "features-3": "24 levels of dampening adjustability combined with our high grade shock oil, not only do you feel the click in your fingers, you feel every dampening adjustment in the driver's seat.",
+                    "features-4": "High strength JIS G3445-STKM13C (DIN2393-ST44-2) carbon steel 52mm diameter seamless shock tube.",
+                    "features-5": "44mm piston with digressive style valving characteristics provides maximum low speed damping response for ultimate performance while simultaneously giving a comfortable ride.",
+                    "features-6": "Mono-tube shock design, Increases shock oil capacity as well as displacement over twin tube designs for maximum performance.",
+                    "features-7": "High viscosity IP F.A. 5W damper oil ensures the best efficiency and consistency of shock-absorption and dampening control.",
+                    "features-8": "Height adjustability is provided by the lower bracket which prevents the need to adjust the spring perch or preload, offering the maximum possible travel regardless of height setting.",
+                    "features-9": "Cold-bent springs made from high strength SAE9254 steel which keeps stable elastic modulus.",
+                    "features-10": "Powder coated steel lower brackets matching all factory brake line & ABS wire tabs, for seamless installation.",
+                    "features-11": "Anodized T6 6061 aluminum lower mounts for multi-link suspension systems to lower unsprung weight.",
+                    "features-12": "18 Month limited manufacturer's warranty."
+                }
+            ],
+            "compatibility": "2020-2021 Toyota Supra"
+        }
+    ],
+    "auto": [
+        {
+            "id": 30001,
+            "type": "Motorcycle",
+            "title": "2018 Yamaha R6",
+            "img": "image"
+        },
+        {
+            "id": 30002,
+            "type": "Car",
+            "title": "2020 Toyota Supra",
+            "img": "image"
+        }
     ]
 }
     

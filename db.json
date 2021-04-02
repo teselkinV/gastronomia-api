@@ -230,20 +230,18 @@
             "standart1": "Standard Front Spring Rate: 8K",
             "standart2": "Standard Rear Spring Rate: 9K-S",
             "features": [
-                {
-                    "f1": "Adjustable T6 6061 front camber plates on all McPherson style applications.",
-                    "f2": "Koyo Japan Radial Bearing upper spring perch standard on all applicable McPherson applications. This eliminates spring bind, noise, and gives improved driver feedback.",
-                    "f3": "24 levels of dampening adjustability combined with our high grade shock oil, not only do you feel the click in your fingers, you feel every dampening adjustment in the driver's seat.",
-                    "f4": "High strength JIS G3445-STKM13C (DIN2393-ST44-2) carbon steel 52mm diameter seamless shock tube.",
-                    "f5": "44mm piston with digressive style valving characteristics provides maximum low speed damping response for ultimate performance while simultaneously giving a comfortable ride.",
-                    "f6": "Mono-tube shock design, Increases shock oil capacity as well as displacement over twin tube designs for maximum performance.",
-                    "f7": "High viscosity IP F.A. 5W damper oil ensures the best efficiency and consistency of shock-absorption and dampening control.",
-                    "f8": "Height adjustability is provided by the lower bracket which prevents the need to adjust the spring perch or preload, offering the maximum possible travel regardless of height setting.",
-                    "f9": "Cold-bent springs made from high strength SAE9254 steel which keeps stable elastic modulus.",
-                    "f10": "Powder coated steel lower brackets matching all factory brake line & ABS wire tabs, for seamless installation.",
-                    "f11": "Anodized T6 6061 aluminum lower mounts for multi-link suspension systems to lower unsprung weight.",
-                    "f12": "18 Month limited manufacturer's warranty."
-                }
+                    {"f1": "Adjustable T6 6061 front camber plates on all McPherson style applications."},
+                    {"f2": "Koyo Japan Radial Bearing upper spring perch standard on all applicable McPherson applications. This eliminates spring bind, noise, and gives improved driver feedback."},
+                    {"f3": "24 levels of dampening adjustability combined with our high grade shock oil, not only do you feel the click in your fingers, you feel every dampening adjustment in the driver's seat."},
+                    {"f4": "High strength JIS G3445-STKM13C (DIN2393-ST44-2) carbon steel 52mm diameter seamless shock tube."},
+                    {"f5": "44mm piston with digressive style valving characteristics provides maximum low speed damping response for ultimate performance while simultaneously giving a comfortable ride."},
+                    {"f6": "Mono-tube shock design, Increases shock oil capacity as well as displacement over twin tube designs for maximum performance."},
+                    {"f7": "High viscosity IP F.A. 5W damper oil ensures the best efficiency and consistency of shock-absorption and dampening control."},
+                    {"f8": "Height adjustability is provided by the lower bracket which prevents the need to adjust the spring perch or preload, offering the maximum possible travel regardless of height setting."},
+                    {"f9": "Cold-bent springs made from high strength SAE9254 steel which keeps stable elastic modulus."},
+                    {"f10": "Powder coated steel lower brackets matching all factory brake line & ABS wire tabs, for seamless installation."},
+                    {"f11": "Anodized T6 6061 aluminum lower mounts for multi-link suspension systems to lower unsprung weight."},
+                    {"f12": "18 Month limited manufacturer's warranty."}
             ],
             "compatibility": "2020-2021 Toyota Supra"
         }

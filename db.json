@@ -180,7 +180,7 @@
                     "steps": [
                         { "1": "Add the cream and vanilla to a pan and bring it to a gentle simmer."},
                         { "2": "Meanwhile add the white chocolate, mascarpone and melted gelatin to a jug."},
-                        {"3": "Pour over the hot cream and blend. Pour it into a bowl and cover and chill overnight. Do not skip this."},
+                        { "3": "Pour over the hot cream and blend. Pour it into a bowl and cover and chill overnight. Do not skip this."},
                         { "4": "Whisk to soft peaks and then pipe. Keep an eye on it so you don’t over whip it."}
                     ] 
                 }
@@ -227,7 +227,8 @@
             "brand": "Silver’s",
             "title": "Silver’s NEOMAX Coilover Kit - Toyota Supra A90 RWD 2019+",
             "img": "image",
-            "description": "Standard Front Spring Rate: 8K Standard Rear Spring Rate: 9K-S",
+            "standart-1": "Standard Front Spring Rate: 8K",
+            "standart-2": "Standard Rear Spring Rate: 9K-S",
             "features": [
                 {
                     "features-1": "Adjustable T6 6061 front camber plates on all McPherson style applications.",

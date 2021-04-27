@@ -275,6 +275,22 @@
             "img": "image",
             "category": "electro"
         }
+    ],
+    "category": [
+        {
+            "id": 1001,
+            "title": "T-shirts",
+            "subtitle": "Men's T-Shirts",
+            "description": "T-shirts are the ultimate wardrobe staple – they're simple, they're versatile and they'll work for virtually any occasion. Hit up our collection of men's T-shirts and vests for plain and printed designs to slot into your everyday rotation. Check out web-site for oversized T-shirts and unique patterns.",
+            "type": "t-shirt-men"
+        },
+        {
+            "id": 1002,
+            "title": "Polo",
+            "subtitle": "Men's Polo",
+            "description": "For the right balance of smart and casual, check out our edit of men’s polo shirts. Polo Ralph Lauren brings you branded classics you’ll love, while heritage label Fred Perry’s black polo shirts – complete with the brand’s signature embroidered logo – are an easy win for when you’re in-between dress codes",
+            "type": "polo-men"
+        }
     ]
 }
     

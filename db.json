@@ -334,6 +334,7 @@
       "category": "electro"
     }
   ],
+
   "categoryShop": [
     {
       "id": 1001,
@@ -349,6 +350,14 @@
       "subtitle": "Men's Polo",
       "description": "For the right balance of smart and casual, check out our edit of men’s polo shirts. Polo Ralph Lauren brings you branded classics you’ll love, while heritage label Fred Perry’s black polo shirts – complete with the brand’s signature embroidered logo – are an easy win for when you’re in-between dress codes",
       "type": "polo-men",
+      "sex": "male"
+    },
+    {
+      "id": 1003,
+      "title": "Shirts",
+      "subtitle": "Men's Shirts",
+      "description": "From work to play, our collection of shirts for men covers all bases. Shop ASOS DESIGN for everything from smart shirts for your 9-5 to denim shirts and Hawaiian shirts for your summer wardrobe. Browse iconic designs from Polo Ralph Lauren, with check shirts, preppy hues and logo details featuring heavily.",
+      "type": "shirts-men",
       "sex": "male"
     },
     {

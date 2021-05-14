@@ -377,6 +377,86 @@
       "sex": "male"
     },
     {
+      "id": 1006,
+      "title": "Jackets & Coats",
+      "subtitle": "Men's Jackets & Coats",
+      "description": "Staying warm never looked so good thanks to our edit of men’s coats and jackets. Check out design for all the latest trends, and discover new-season men's trench coats and men's gilets. Browse Only & Sons for men's bomber jackets and overcoats, or for something fresh and experimental.",
+      "type": "jackets-men",
+      "sex": "male"
+    },
+    {
+      "id": 1007,
+      "title": "Hoodies",
+      "subtitle": "Men's Hoodies & Sweatshirts",
+      "description": "It’s the 21st century and we feel strongly that sweats aren’t just for wearing to the gym. Make your everyday rotation that little bit comfier with our collection of men’s hoodies and sweatshirts. Our selection of oversized sweatshirts, alongside zip-up hoodies in a variety of plain and printed designs.",
+      "type": "hoodies-men",
+      "sex": "male"
+    },
+    {
+      "id": 1008,
+      "title": "Activewear",
+      "subtitle": "Men's Activewear",
+      "description": "It’s the 21st century and we feel strongly that sweats aren’t just for wearing to the gym. Make your everyday rotation that little bit comfier with our collection of men’s hoodies and sweatshirts. Our selection of oversized sweatshirts, alongside zip-up hoodies in a variety of plain and printed designs.",
+      "type": "activewear-men",
+      "sex": "male"
+    },
+    {
+      "id": 1009,
+      "title": "Jeans",
+      "subtitle": "Men's Jeans",
+      "description": "Our edit of men’s jeans provides a solid start to any outfit – from Jack & Jones’ everyday black jeans to Levi’s iconic 501s, we’ve got styles to suit every taste. Hit up Gelsy for everything from staple styles in classic washes that can be worn all day every day to spray-on men's skinny jeans for your weekend wardrobe.",
+      "type": "jeans-men",
+      "sex": "male"
+    },
+    {
+      "id": 1010,
+      "title": "Shorts",
+      "subtitle": "Men's Shorts",
+      "description": "Keep your look fresh when the temperatures start to soar with our collection of men's shorts. You can't go wrong with men's denim shorts – they're a wardrobe staple and can be styled your way. Or try a pair of men's cargo shorts if you're after something practical yet stylish.",
+      "type": "shorts-men",
+      "sex": "male"
+    },
+    {
+      "id": 1011,
+      "title": "Pants",
+      "subtitle": "Men's Pants & Chinos",
+      "description": "Keep your look fresh when the temperatures start to soar with our collection of men's shorts. You can't go wrong with men's denim shorts – they're a wardrobe staple and can be styled your way. Or try a pair of men's cargo shorts if you're after something practical yet stylish.",
+      "type": "pants-men",
+      "sex": "male"
+    },
+    {
+      "id": 1012,
+      "title": "Joggers",
+      "subtitle": "Men's Joggers",
+      "description": "Why settle for 50% comfort when you could have 100%? Whether you’re looking for a matching tracksuit set or stocking up on mix-and-match sweatpants and sweatshirts, we’ve got a wide selection to choose from in our edit of men’s tracksuits. Hit up Gilsy for men's joggers and hoodies.",
+      "type": "joggers-men",
+      "sex": "male"
+    },
+    {
+      "id": 1013,
+      "title": "Suites",
+      "subtitle": "Men's Suites",
+      "description": "It's time to get suited and booted with our versatile collection of men's suits. Whether you're looking for a tuxedo to wear to a wedding or just want to elevate your daytime look with a casual suit, we've got what you're looking for. Shop brands like Burton Menswear and Selected Homme.",
+      "type": "suites-men",
+      "sex": "male"
+    },
+    {
+      "id": 1014,
+      "title": "Shoes",
+      "subtitle": "Men's Shoes",
+      "description": "Start from the bottom with our edit of shoes for men. Whether you're looking for a pair of boots or summer boat shoes, find what you're looking for in our collection. Browse for all the latest styles, or if you're looking for men's sneakers, check out our selection from adidas Originals.",
+      "type": "shoes-men",
+      "sex": "male"
+    },
+    {
+      "id": 1015,
+      "title": "Underwear",
+      "subtitle": "Men's Underwear",
+      "description": "Shop everyday essentials from our edit of men's underwear. Whether you're a tight boxers kind of person or prefer your trunks on the baggier side, we've got styles to suit you. Fill your underwear drawer with classic pairs of Calvin Klein boxers, or check out colourful styles.",
+      "type": "underwear-men",
+      "sex": "male"
+    },
+    {
       "id": 2001,
       "title": "Dresses",
       "subtitle": "Dresses",

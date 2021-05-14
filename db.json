@@ -369,6 +369,14 @@
       "sex": "male"
     },
     {
+      "id": 1005,
+      "title": "Overalls & Boiler Suits",
+      "subtitle": "Men's Overalls & Boiler Suits",
+      "description": "Whether you want something to layer over Overalls, pair with jeans or throw on for getting home after the gym, our edit of men's sweaters and cardigans has everything you need to stay warm this season. Our design is your go-to for everyday style heroes and muscle-fit styles.",
+      "type": "overalls-men",
+      "sex": "male"
+    },
+    {
       "id": 2001,
       "title": "Dresses",
       "subtitle": "Dresses",

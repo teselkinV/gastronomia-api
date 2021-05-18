@@ -566,6 +566,30 @@
       "description": "For those days when jeans don't quite cut it, swap them out for equally as versatile pants and leggings. From chinos and crops to wide leg and skinny styles, our latest edit of women's pants is full of go-to pieces for work, the weekend or whenever you feel like it. Embracing your own unique style couldn't be easier",
       "type": "pants-women",
       "sex": "female"
+    },
+    {
+      "id": 2013,
+      "title": "Suits & Tailoring",
+      "subtitle": "Women's Suits & Tailoring",
+      "description": "Finding the perfect two-piece has never been easier thanks to our edit of suits for women. Whether you’re shopping for cool, casual tailoring or something a little bit smarter, ASOS DESIGN has a wide a range of women's trouser suits to discover. Play by your own rules with our collection of suit shorts.",
+      "type": "suits-women",
+      "sex": "female"
+    },
+    {
+      "id": 2014,
+      "title": "Shoes",
+      "subtitle": "Women's Shoes",
+      "description": "You’ve nailed your outfit, now all that’s left is the footwear – which is where our edit of shoes for women comes in. Whether you're looking for everyday winners or something for your next night out, give your feet the VIP treatment, whatever your style. Refresh your summer wardrobe with selection of sandals.",
+      "type": "shoes-women",
+      "sex": "female"
+    },
+    {
+      "id": 2015,
+      "title": "Lingerie",
+      "subtitle": "Women's Lingerie",
+      "description": "Give your lingerie drawer some love and attention with our underwear edit of all your favorite brands. From functional options for the everyday to lacy looks that'll give you an instant confidence boost, scroll down for all your lingerie needs. Stock up on the basics by mixing and matching New Look's.",
+      "type": "lingerie-women",
+      "sex": "female"
     }
   ]
 }

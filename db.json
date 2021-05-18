@@ -534,6 +534,38 @@
       "description": "Dreaming of sunnier days? Let's face it, there's nothing like shopping for bikinis and swimsuits to get you in the mood for summer. For bikinis, we have styles in a variety of colours and prints. Choose a matching set or express your individuality with our mix-and-match options.",
       "type": "swimwear-women",
       "sex": "female"
+    },
+    {
+      "id": 2009,
+      "title": "Jeans",
+      "subtitle": "Women's Jeans",
+      "description": "Mom or boyfriend? We're talking about jeans, of course, and there's plenty of styles to choose from in our latest edit. From vintage classics from Urban Bliss through to comfy wide leg styles courtesy of COLLUSION, finding 'the' pair of jeans has never been easier.",
+      "type": "jeans-women",
+      "sex": "female"
+    },
+    {
+      "id": 2010,
+      "title": "Skirts",
+      "subtitle": "Women's Skirts",
+      "description": "Give yourself plenty of ways to express your individuality by stocking up on skirts from all of your favorite brands. Play around with classic denim, sleek leather, or form-fitting pencil skirts from our current new season edit. From work-friendly bias cuts to form-fitting bodycons with day-to-night potential.",
+      "type": "skirts-women",
+      "sex": "female"
+    },
+    {
+      "id": 2011,
+      "title": "Shorts",
+      "subtitle": "Women's Shorts",
+      "description": "When the weather warms up, that means one thing - it's finally time to get your legs out. Whether you're heading off on vacation or want some denim staples to enhance your weekend wardrobe, we've got all the shorts for all the occasions right here at DENIM.",
+      "type": "shorts-women",
+      "sex": "female"
+    },
+    {
+      "id": 2012,
+      "title": "Pants & Leggings",
+      "subtitle": "Women's Pants & Leggings",
+      "description": "For those days when jeans don't quite cut it, swap them out for equally as versatile pants and leggings. From chinos and crops to wide leg and skinny styles, our latest edit of women's pants is full of go-to pieces for work, the weekend or whenever you feel like it. Embracing your own unique style couldn't be easier",
+      "type": "pants-women",
+      "sex": "female"
     }
   ]
 }

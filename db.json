@@ -342,7 +342,8 @@
       "subtitle": "Men's T-Shirts",
       "description": "T-shirts are the ultimate wardrobe staple – they're simple, they're versatile and they'll work for virtually any occasion. Hit up our collection of men's T-shirts and vests for plain and printed designs to slot into your everyday rotation. Check out web-site for oversized T-shirts and unique patterns.",
       "type": "t-shirt-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "top"
     },
     {
       "id": 1002,
@@ -350,7 +351,8 @@
       "subtitle": "Men's Polo",
       "description": "For the right balance of smart and casual, check out our edit of men’s polo shirts. Polo Ralph Lauren brings you branded classics you’ll love, while heritage label Fred Perry’s black polo shirts – complete with the brand’s signature embroidered logo – are an easy win for when you’re in-between dress codes",
       "type": "polo-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "top"
     },
     {
       "id": 1003,
@@ -358,7 +360,8 @@
       "subtitle": "Men's Shirts",
       "description": "From work to play, our collection of shirts for men covers all bases. Shop ASOS DESIGN for everything from smart shirts for your 9-5 to denim shirts and Hawaiian shirts for your summer wardrobe. Browse iconic designs from Polo Ralph Lauren, with check shirts, preppy hues and logo details featuring heavily.",
       "type": "shirts-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "top"
     },
     {
       "id": 1004,
@@ -366,7 +369,8 @@
       "subtitle": "Men's Sweaters",
       "description": "Whether you want something to layer over shirts, pair with jeans or throw on for getting home after the gym, our edit of men's sweaters and cardigans has everything you need to stay warm this season. ASOS DESIGN is your go-to for everyday style heroes – from muscle-fit styles.",
       "type": "sweaters-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "top"
     },
     {
       "id": 1005,
@@ -374,7 +378,8 @@
       "subtitle": "Men's Overalls & Boiler Suits",
       "description": "Whether you want something to layer over Overalls, pair with jeans or throw on for getting home after the gym, our edit of men's sweaters and cardigans has everything you need to stay warm this season. Our design is your go-to for everyday style heroes and muscle-fit styles.",
       "type": "overalls-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "top"
     },
     {
       "id": 1006,
@@ -382,7 +387,8 @@
       "subtitle": "Men's Jackets & Coats",
       "description": "Staying warm never looked so good thanks to our edit of men’s coats and jackets. Check out design for all the latest trends, and discover new-season men's trench coats and men's gilets. Browse Only & Sons for men's bomber jackets and overcoats, or for something fresh and experimental.",
       "type": "jackets-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "top"
     },
     {
       "id": 1007,
@@ -390,7 +396,8 @@
       "subtitle": "Men's Hoodies & Sweatshirts",
       "description": "It’s the 21st century and we feel strongly that sweats aren’t just for wearing to the gym. Make your everyday rotation that little bit comfier with our collection of men’s hoodies and sweatshirts. Our selection of oversized sweatshirts, alongside zip-up hoodies in a variety of plain and printed designs.",
       "type": "hoodies-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "top"
     },
     {
       "id": 1008,
@@ -398,7 +405,8 @@
       "subtitle": "Men's Activewear",
       "description": "It’s the 21st century and we feel strongly that sweats aren’t just for wearing to the gym. Make your everyday rotation that little bit comfier with our collection of men’s hoodies and sweatshirts. Our selection of oversized sweatshirts, alongside zip-up hoodies in a variety of plain and printed designs.",
       "type": "activewear-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "top"
     },
     {
       "id": 1009,
@@ -406,7 +414,8 @@
       "subtitle": "Men's Jeans",
       "description": "Our edit of men’s jeans provides a solid start to any outfit – from Jack & Jones’ everyday black jeans to Levi’s iconic 501s, we’ve got styles to suit every taste. Hit up Gelsy for everything from staple styles in classic washes that can be worn all day every day to spray-on men's skinny jeans for your weekend wardrobe.",
       "type": "jeans-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "bottom"
     },
     {
       "id": 1010,
@@ -414,7 +423,8 @@
       "subtitle": "Men's Shorts",
       "description": "Keep your look fresh when the temperatures start to soar with our collection of men's shorts. You can't go wrong with men's denim shorts – they're a wardrobe staple and can be styled your way. Or try a pair of men's cargo shorts if you're after something practical yet stylish.",
       "type": "shorts-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "bottom"
     },
     {
       "id": 1011,
@@ -422,7 +432,8 @@
       "subtitle": "Men's Pants & Chinos",
       "description": "Keep your look fresh when the temperatures start to soar with our collection of men's shorts. You can't go wrong with men's denim shorts – they're a wardrobe staple and can be styled your way. Or try a pair of men's cargo shorts if you're after something practical yet stylish.",
       "type": "pants-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "bottom"
     },
     {
       "id": 1012,
@@ -430,7 +441,8 @@
       "subtitle": "Men's Joggers",
       "description": "Why settle for 50% comfort when you could have 100%? Whether you’re looking for a matching tracksuit set or stocking up on mix-and-match sweatpants and sweatshirts, we’ve got a wide selection to choose from in our edit of men’s tracksuits. Hit up Gilsy for men's joggers and hoodies.",
       "type": "joggers-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "bottom"
     },
     {
       "id": 1013,
@@ -438,7 +450,8 @@
       "subtitle": "Men's Suites",
       "description": "It's time to get suited and booted with our versatile collection of men's suits. Whether you're looking for a tuxedo to wear to a wedding or just want to elevate your daytime look with a casual suit, we've got what you're looking for. Shop brands like Burton Menswear and Selected Homme.",
       "type": "suites-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "other"
     },
     {
       "id": 1014,
@@ -446,7 +459,8 @@
       "subtitle": "Men's Shoes",
       "description": "Start from the bottom with our edit of shoes for men. Whether you're looking for a pair of boots or summer boat shoes, find what you're looking for in our collection. Browse for all the latest styles, or if you're looking for men's sneakers, check out our selection from adidas Originals.",
       "type": "shoes-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "other"
     },
     {
       "id": 1015,
@@ -454,7 +468,8 @@
       "subtitle": "Men's Underwear",
       "description": "Shop everyday essentials from our edit of men's underwear. Whether you're a tight boxers kind of person or prefer your trunks on the baggier side, we've got styles to suit you. Fill your underwear drawer with classic pairs of Calvin Klein boxers, or check out colourful styles.",
       "type": "underwear-men",
-      "sex": "male"
+      "sex": "male",
+      "section": "other"
     },
     {
       "id": 2001,

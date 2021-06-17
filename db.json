@@ -668,5 +668,37 @@
       ],
       "ctaPosition": "right"
     }
+  ],
+  "shampoo": [
+    {
+      "id": 101,
+      "brand": "AVON MAN",
+      "title": "Avon Man Hair & Body Wash",
+      "subtitle": "Шампунь-гель для душа для мужчин",
+      "code": "51618",
+      "size": "250ml",
+      "description": "Гель освежает кожу, не пересушивая ее, и придает мягкость. Также подходит для ухода за волосами. Обладает древесно-восточно-фруктовым ароматом с нотами свежей мяты, яблока и мха.",
+      "ingredients": "AQUA, SODIUM LAURETH SULFATE, GLYCERIN, COCAMIDE MEA, COCAMIDOPROPYL BETAINE, POLYSORBATE 20, PARFUM, SODIUM CHLORIDE, DISODIUM EDTA, PEG-150 PENTAERYTHRITYL TETRASTEARATE, POLYQUATERNIUM-10, PHOSPHORIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, LIMONENE."
+    },
+    {
+      "id": 102,
+      "brand": "NATURALS",
+      "title": "Avon Naturals",
+      "subtitle": "Шампунь / Ополаскиватель 2 в 1 с витаминным комплексом",
+      "code": "87762",
+      "size": "250ml",
+      "description": "Сила витаминов для красоты твоих волос! Формула с витаминным комплексом (Е, В3 и В5) дарит энергию тусклым, поврежденным волосам, возвращая им красоту и здоровье.",
+      "ingredients": "AQUA, SODIUM LAURETH SULFATE, GLYCERIN, COCAMIDE MEA, COCAMIDOPROPYL BETAINE, POLYSORBATE 20, PARFUM, SODIUM CHLORIDE, DISODIUM EDTA, PEG-150 PENTAERYTHRITYL TETRASTEARATE, POLYQUATERNIUM-10, PHOSPHORIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, LIMONENE."
+    },
+    {
+      "id": 103,
+      "brand": "HAIR CARE 'ВОССТАНОВЛЕНИЕ'",
+      "title": "Avon 'ВОССТАНОВЛЕНИЕ'",
+      "subtitle": "Шампунь для волос с маслом кокоса",
+      "code": "67871",
+      "size": "400ml",
+      "description": "Максимальное увлажнение и восстановление волос с кокосовым маслом. Деликатная формула подойдет всем твоим близким: и большим, и маленьким. Предназначен для всех типов кожи.",
+      "ingredients": "AQUA, SODIUM LAURETH SULFATE, GLYCERIN, COCAMIDE MEA, COCAMIDOPROPYL BETAINE, POLYSORBATE 20, PARFUM, SODIUM CHLORIDE, DISODIUM EDTA, PEG-150 PENTAERYTHRITYL TETRASTEARATE, POLYQUATERNIUM-10, PHOSPHORIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, LIMONENE."
+    }
   ]
 }
